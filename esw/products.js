@@ -30,5 +30,5 @@ function listar() {
     })
 }
 
-
+///liste o produto por categoria do Usuario  // sucesso listado
 
