@@ -32,3 +32,10 @@ function listar() {
 
 ///liste o produto por categoria do Usuario  // sucesso listado
 
+/*
+Função a ser implementada no arquivo products.js: listar_por_valor(valor_minimo, valor_maximo); onde valor_minimo e valor_maximo 
+
+
+
+
+*/
